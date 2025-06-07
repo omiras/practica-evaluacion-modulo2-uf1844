@@ -51,7 +51,7 @@ Notas:
 - Por cada llamada a la función que devuelva lo que se espera - 1 punto
 - Puntuación máxima: 13 puntos
 
-## Ejercicio 2: Uso de bucles
+## Ejercicio 2: Uso de bucle para contar monedas
 
 Supón que estás recolectando monedas en un juego de plataformas. Escribe una función que reciba un array con elementos que pueden ser "moneda" o cualquier otra cosa, y que cuente cuántas monedas hay.
 
