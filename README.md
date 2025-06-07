@@ -5,12 +5,19 @@ Para ejecutar cada programa:
 
 `node ejercicio1.js`
 
+En cada ejercicio hay un comentario con el valor esperado que debe devolver cada función. Ejemplo:
+
+`nicknameGenerator("Robert") //=> "Rob"`
+
+Significa que si invocamos la función _nicknameGenerator_ con el valor _Robert_, espero que la función me devuelva el string "Rob".
+
+¡Ánimo! Cada línea de código que escribas te acerca más a dominar la programación. 💪
+¡Muchísima suerte! 🚀✨
+
+## Ejercicio 1: Nick Name Generator
 
 
-## Ejercicio 1: Generador de apodos
-
-
-Escribe una función, generadorDeApodos, que reciba un string nombre como argumento y devuelva las primeras 3 o 4 letras como un apodo.
+Escribe una función, nicknameGenerator, que reciba un string nombre como argumento y devuelva las primeras 3 o 4 letras como un apodo.
 
 - Si la 3ª letra es una consonante, devuelve las primeras 3 letras.
 
@@ -28,7 +35,7 @@ nicknameGenerator("Douglas") //=> "Doug"
 nicknameGenerator("Gregory") //=> "Greg"
 ```
 
-- Si el string tiene menos de 4 caracteres, devuelve "Error: Nombre demasiado corto".
+- Si el string tiene menos de 4 caracteres, devuelve "Error: Name too short".
 
 Notas:
 
@@ -40,7 +47,7 @@ Notas:
 
 ## Criterios evaluación Ejercicio 1
 
-- El código no contiene erroes de ejecución - 1 punto
+- El código no contiene errores de ejecución - 1 punto
 - Por cada llamada a la función que devuelva lo que se espera - 1 punto
 - Puntuación máxima: 13 puntos
 
@@ -54,6 +61,8 @@ Ten cuidado porque las _monedas_ pueden estar en minúsculas o mayúsculas.
 
 ## Criterios evaluación Ejercicio 2
 
-- El código no contiene erroes de ejecución - 1 punto
+- El código no contiene errores de ejecución - 1 punto
 - Por cada llamada a la función que devuelva lo que se espera - 1 punto
 - Puntuación máxima: 9 puntos
+
+
